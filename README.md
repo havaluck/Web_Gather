@@ -15,6 +15,8 @@ These are standard or were previously downloaded for past assignments
 
 **Using the module**
 
+You do not need to install anything via pip, simply download the web_gather.py file and save it in the same folder as your jupyter notebooks and scripts
+
 You will need:
 
   For Twitter: Twitter API bearer token 
